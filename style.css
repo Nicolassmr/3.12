@@ -1,0 +1,11 @@
+ol.circle{
+    list-style-type: circle;
+}
+
+ol.fideua{
+    list-style-type: upper-roman;
+}
+
+ol.segundo{
+    list-style-type: lower-latin;
+}
